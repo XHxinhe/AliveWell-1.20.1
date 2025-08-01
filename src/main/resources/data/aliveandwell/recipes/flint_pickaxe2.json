@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#E#",
+        " / ",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "aliveandwell:flint_ingot"
+        },
+        "E": {
+            "item": "minecraft:string"
+        },
+        "/": {
+            "tag": "c:sticks"
+        }
+    },
+    "result": {
+        "item": "aliveandwell:flint_pickaxe",
+        "count": 1
+    }
+}

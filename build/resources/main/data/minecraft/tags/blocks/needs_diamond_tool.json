@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "aliveandwell:ore_adamantium",
+    "aliveandwell:adamantium_block",
+    "aliveandwell:mithril_block"
+  ]
+}

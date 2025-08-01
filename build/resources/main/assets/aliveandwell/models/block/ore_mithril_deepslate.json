@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures":
+  {
+    "all": "aliveandwell:block/ore_mithril_deepslate"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "minecraft:coal"
+    }
+  },
+  "pattern": [
+    "A"
+  ],
+  "result": {
+    "item": "minecraft:black_dye"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "aliveandwell:argent_core"
+  },
+  "base": {
+    "item": "aliveandwell:adamantium_sword"
+  },
+  "result": {
+    "item": "aliveandwell:ancient_sword"
+  },
+  "template": {
+    "item": "minecraft:rib_armor_trim_smithing_template"
+  }
+}

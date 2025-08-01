@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:iron_block"
+  },
+  "base": {
+    "item": "aliveandwell:copper_sword"
+  },
+  "result": {
+    "item": "minecraft:iron_sword"
+  },
+  "template": {
+    "item": "minecraft:iron_ingot"
+  }
+}

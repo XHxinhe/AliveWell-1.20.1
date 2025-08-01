@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XYX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item":"aliveandwell:ingot_adamantium"
+    },
+    "Y": {
+      "item":"aliveandwell:fortified_stone"
+    }
+  },
+  "result": {
+    "item": "aliveandwell:adamantium_core"
+  }
+}

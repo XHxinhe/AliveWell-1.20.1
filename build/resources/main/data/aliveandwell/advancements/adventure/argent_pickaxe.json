@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "argent_pickaxe": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "doom:argent_pickaxe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.doom.argent_pickaxe.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "doom:argent_pickaxe"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.doom.argent_pickaxe.title"
+    }
+  },
+  "requirements": [
+    [
+      "argent_pickaxe"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

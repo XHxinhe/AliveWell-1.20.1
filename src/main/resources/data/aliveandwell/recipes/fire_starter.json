@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "xy",
+        "yx"
+    ],
+    "key": {
+        "x": {
+            "item": "aliveandwell:lashing"
+        },
+        "y": {
+            "tag": "c:sticks"
+        }
+    },
+    "result": {
+        "item": "aliveandwell:fire_starter",
+        "count": 1
+    }
+}

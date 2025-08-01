@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "mithril_core": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "aliveandwell:mithril_core"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.aliveandwell.mithril_core.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "aliveandwell:mithril_core"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.aliveandwell.mithril_core.title"
+    }
+  },
+  "requirements": [
+    [
+      "mithril_core"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

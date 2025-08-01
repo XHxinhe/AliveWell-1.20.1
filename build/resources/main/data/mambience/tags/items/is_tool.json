@@ -1,0 +1,11 @@
+{
+    "replace": false,
+    "values": [
+        "aliveandwell:flint_axe",
+        "aliveandwell:flint_pickaxe",
+        "aliveandwell:copper_axe",
+        "aliveandwell:copper_pickaxe",
+        "aliveandwell:copper_shovel",
+        "aliveandwell:copper_hoe"
+    ]
+}

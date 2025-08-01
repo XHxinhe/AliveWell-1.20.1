@@ -1,0 +1,41 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "aliveandwell:item/compass_ancient_city_16"
+    },
+    "overrides": [
+        { "predicate": { "angle": 0.000000 }, "model": "aliveandwell:item/compass_ancient_city_16" },
+        { "predicate": { "angle": 0.015625 }, "model": "aliveandwell:item/compass_ancient_city_17" },
+        { "predicate": { "angle": 0.046875 }, "model": "aliveandwell:item/compass_ancient_city_18" },
+        { "predicate": { "angle": 0.078125 }, "model": "aliveandwell:item/compass_ancient_city_19" },
+        { "predicate": { "angle": 0.109375 }, "model": "aliveandwell:item/compass_ancient_city_20" },
+        { "predicate": { "angle": 0.140625 }, "model": "aliveandwell:item/compass_ancient_city_21" },
+        { "predicate": { "angle": 0.171875 }, "model": "aliveandwell:item/compass_ancient_city_22" },
+        { "predicate": { "angle": 0.203125 }, "model": "aliveandwell:item/compass_ancient_city_23" },
+        { "predicate": { "angle": 0.234375 }, "model": "aliveandwell:item/compass_ancient_city_24" },
+        { "predicate": { "angle": 0.265625 }, "model": "aliveandwell:item/compass_ancient_city_25" },
+        { "predicate": { "angle": 0.296875 }, "model": "aliveandwell:item/compass_ancient_city_26" },
+        { "predicate": { "angle": 0.328125 }, "model": "aliveandwell:item/compass_ancient_city_27" },
+        { "predicate": { "angle": 0.359375 }, "model": "aliveandwell:item/compass_ancient_city_28" },
+        { "predicate": { "angle": 0.390625 }, "model": "aliveandwell:item/compass_ancient_city_29" },
+        { "predicate": { "angle": 0.421875 }, "model": "aliveandwell:item/compass_ancient_city_30" },
+        { "predicate": { "angle": 0.453125 }, "model": "aliveandwell:item/compass_ancient_city_31" },
+        { "predicate": { "angle": 0.484375 }, "model": "aliveandwell:item/compass_ancient_city_00" },
+        { "predicate": { "angle": 0.515625 }, "model": "aliveandwell:item/compass_ancient_city_01" },
+        { "predicate": { "angle": 0.546875 }, "model": "aliveandwell:item/compass_ancient_city_02" },
+        { "predicate": { "angle": 0.578125 }, "model": "aliveandwell:item/compass_ancient_city_03" },
+        { "predicate": { "angle": 0.609375 }, "model": "aliveandwell:item/compass_ancient_city_04" },
+        { "predicate": { "angle": 0.640625 }, "model": "aliveandwell:item/compass_ancient_city_05" },
+        { "predicate": { "angle": 0.671875 }, "model": "aliveandwell:item/compass_ancient_city_06" },
+        { "predicate": { "angle": 0.703125 }, "model": "aliveandwell:item/compass_ancient_city_07" },
+        { "predicate": { "angle": 0.734375 }, "model": "aliveandwell:item/compass_ancient_city_08" },
+        { "predicate": { "angle": 0.765625 }, "model": "aliveandwell:item/compass_ancient_city_09" },
+        { "predicate": { "angle": 0.796875 }, "model": "aliveandwell:item/compass_ancient_city_10" },
+        { "predicate": { "angle": 0.828125 }, "model": "aliveandwell:item/compass_ancient_city_11" },
+        { "predicate": { "angle": 0.859375 }, "model": "aliveandwell:item/compass_ancient_city_12" },
+        { "predicate": { "angle": 0.890625 }, "model": "aliveandwell:item/compass_ancient_city_13" },
+        { "predicate": { "angle": 0.921875 }, "model": "aliveandwell:item/compass_ancient_city_14" },
+        { "predicate": { "angle": 0.953125 }, "model": "aliveandwell:item/compass_ancient_city_15" },
+        { "predicate": { "angle": 0.984375 }, "model": "aliveandwell:item/compass_ancient_city_16" }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item":"aliveandwell:nugget_adamantium"
+    }
+  },
+  "result": {
+    "item": "aliveandwell:ingot_adamantium"
+  }
+}

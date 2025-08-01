@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XYX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "Y": {
+      "tag":"minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "aliveandwell:frame_spawnpoint",
+    "count": 10
+  }
+}

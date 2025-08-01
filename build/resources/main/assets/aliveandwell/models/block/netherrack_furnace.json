@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "aliveandwell:block/furnace/netherrack/top",
+        "front": "aliveandwell:block/furnace/netherrack/front",
+        "side": "aliveandwell:block/furnace/netherrack/side"
+    }
+}

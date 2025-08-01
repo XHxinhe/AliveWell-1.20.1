@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BYB",
+    "XAX",
+    "CYC"
+  ],
+  "key": {
+    "X": {
+      "item":"minecraft:emerald_block"
+    },
+    "Y": {
+      "item":"minecraft:lapis_block"
+    },
+    "A": {
+      "item":"minecraft:netherite_ingot"
+    },
+    "B": {
+      "item":"aliveandwell:adamantium_block"
+    },
+    "C": {
+      "item":"minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

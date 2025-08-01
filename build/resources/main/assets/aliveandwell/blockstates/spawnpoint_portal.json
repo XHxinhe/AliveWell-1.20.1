@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "aliveandwell:block/spawnpoint_portal_ns"
+    },
+    "axis=z": {
+      "model": "aliveandwell:block/spawnpoint_portal_ew"
+    }
+  }
+}

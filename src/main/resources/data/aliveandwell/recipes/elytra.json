@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XAX",
+    "BYB",
+    "DCD"
+  ],
+  "key": {
+    "X": {
+      "item":"minecraft:feather"
+    },
+    "Y": {
+      "item":"aliveandwell:elytra_core"
+    },
+    "A": {
+      "item":"minecraft:nether_star"
+    },
+    "B": {
+      "item":"minecraft:leather"
+    },
+    "C": {
+      "item":"minecraft:phantom_membrane"
+    },
+    "D": {
+      "item":"minecraft:firework_rocket"
+    }
+  },
+  "result": {
+    "item": "minecraft:elytra"
+  }
+}

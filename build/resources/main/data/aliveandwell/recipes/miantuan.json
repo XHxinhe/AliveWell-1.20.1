@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "aliveandwell:water_bowl"
+    },
+    "B": {
+      "item": "minecraft:wheat"
+    }
+  },
+  "pattern": [
+    "BBB",
+    "BAB",
+    "BBB"
+  ],
+  "result": {
+    "item": "aliveandwell:miantuan",
+    "count": 2
+  }
+}

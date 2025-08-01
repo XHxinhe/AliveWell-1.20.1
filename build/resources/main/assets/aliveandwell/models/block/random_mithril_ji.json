@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+        "particle": "aliveandwell:block/random_mithril_ji",
+        "down": "aliveandwell:block/frame_mithril",
+        "up": "aliveandwell:block/frame_mithril",
+        "north": "aliveandwell:block/random_mithril_ji",
+        "east": "aliveandwell:block/random_mithril_ji",
+        "south": "aliveandwell:block/random_mithril_ji",
+        "west": "aliveandwell:block/random_mithril_ji"
+    }
+}

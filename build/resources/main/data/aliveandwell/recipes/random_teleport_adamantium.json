@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XAX",
+    "AYA",
+    "XAX"
+  ],
+  "key": {
+    "X": {
+      "item":"minecraft:obsidian"
+    },
+    "Y": {
+      "item":"minecraft:ender_pearl"
+    },
+    "A": {
+      "item":"aliveandwell:ingot_adamantium"
+    }
+  },
+  "result": {
+    "item": "aliveandwell:random_teleport_adamantium"
+  }
+}

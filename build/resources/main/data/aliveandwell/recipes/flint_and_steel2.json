@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C"
+  ],
+  "key": {
+    "C": {
+      "item":"minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "aliveandwell:flint_and_steel"
+  }
+}

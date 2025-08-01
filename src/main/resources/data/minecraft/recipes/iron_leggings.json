@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:iron_block"
+  },
+  "base": {
+    "item": "aliveandwell:copper_leggings"
+  },
+  "result": {
+    "item": "minecraft:iron_leggings"
+  },
+  "template": {
+    "item": "minecraft:iron_ingot"
+  }
+}

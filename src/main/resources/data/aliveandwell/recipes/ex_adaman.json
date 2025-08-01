@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+        "item": "aliveandwell:ingot_adamantium"
+      },
+    {
+      "item": "minecraft:leather"
+    }
+  ],
+  "result": {
+    "item": "aliveandwell:ex_adaman",
+    "count": 1
+  }
+}
+

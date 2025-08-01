@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "aliveandwell:block/stick_twig"
+            },
+            {
+                "model": "aliveandwell:block/stick_twig",
+                "y": 90
+            },
+            {
+                "model": "aliveandwell:block/stick_twig",
+                "y": 180
+            },
+            {
+                "model": "aliveandwell:block/stick_twig",
+                "y": 270
+            }
+        ]
+    }
+}

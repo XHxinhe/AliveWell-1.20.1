@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+        "particle": "aliveandwell:block/random_adamantium_bing",
+        "down": "aliveandwell:block/frame_adamantium",
+        "up": "aliveandwell:block/frame_adamantium",
+        "north": "aliveandwell:block/random_adamantium_bing",
+        "east": "aliveandwell:block/random_adamantium_bing",
+        "south": "aliveandwell:block/random_adamantium_bing",
+        "west": "aliveandwell:block/random_adamantium_bing"
+    }
+}

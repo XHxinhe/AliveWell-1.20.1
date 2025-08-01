@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item":"aliveandwell:nugget_wujin"
+    }
+  },
+  "result": {
+    "item": "aliveandwell:ingot_wujin"
+  }
+}

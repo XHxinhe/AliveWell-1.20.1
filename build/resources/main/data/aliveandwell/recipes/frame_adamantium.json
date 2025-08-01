@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYX",
+    "YXY",
+    "XYX"
+  ],
+  "key": {
+    "X": {
+      "item":"minecraft:obsidian"
+    },
+    "Y": {
+      "item":"aliveandwell:nugget_adamantium"
+    }
+  },
+  "result": {
+    "item": "aliveandwell:frame_adamantium",
+    "count": 10
+  }
+}

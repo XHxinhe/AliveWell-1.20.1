@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "aliveandwell:ingot_wujin"
+  },
+  "base": {
+    "item": "minecraft:iron_helmet"
+  },
+  "result": {
+    "item": "aliveandwell:wujin_helmet"
+  },
+  "template": {
+    "item": "aliveandwell:ingot_wujin"
+  }
+}

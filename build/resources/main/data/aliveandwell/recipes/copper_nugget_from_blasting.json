@@ -1,0 +1,41 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": [
+      {
+        "item": "aliveandwell:copper_pickaxe"
+      },
+      {
+        "item": "aliveandwell:copper_shovel"
+      },
+      {
+        "item": "aliveandwell:copper_axe"
+      },
+      {
+        "item": "aliveandwell:copper_hoe"
+      },
+      {
+        "item": "aliveandwell:copper_sword"
+      },
+      {
+        "item": "aliveandwell:copper_knife"
+      },
+      {
+        "item": "aliveandwell:copper_saw"
+      },
+      {
+        "item": "aliveandwell:copper_helmet"
+      },
+      {
+        "item": "aliveandwell:copper_chestplate"
+      },
+      {
+        "item": "aliveandwell:copper_leggings"
+      },
+      {
+        "item": "aliveandwell:copper_boots"
+      }
+    ],
+    "result": "aliveandwell:copper_nugget",
+    "experience": 0.1,
+    "cookingtime": 100
+  }

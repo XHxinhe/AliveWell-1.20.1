@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "aliveandwell:adamantium_core"
+  },
+  "base": {
+    "item": "aliveandwell:mithril_boots"
+  },
+  "result": {
+    "item": "aliveandwell:adamantium_boots"
+  },
+  "template": {
+    "item": "minecraft:rib_armor_trim_smithing_template"
+  }
+}

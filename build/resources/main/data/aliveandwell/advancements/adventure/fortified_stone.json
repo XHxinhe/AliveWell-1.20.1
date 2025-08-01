@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:adventure/root",
+  "criteria": {
+    "fortified_stone": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "aliveandwell:fortified_stone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.aliveandwell.fortified_stone.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "aliveandwell:fortified_stone"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.aliveandwell.fortified_stone.title"
+    }
+  },
+  "requirements": [
+    [
+      "fortified_stone"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

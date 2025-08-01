@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+        "item": "aliveandwell:ingot_mithril"
+      },
+      {
+        "item": "minecraft:leather"
+      }
+  ],
+  "result": {
+    "item": "aliveandwell:ex_mithril",
+    "count": 1
+  }
+}
+

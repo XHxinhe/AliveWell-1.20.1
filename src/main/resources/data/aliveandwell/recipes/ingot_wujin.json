@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX ",
+    "ZZ ",
+    "YY "
+  ],
+  "key": {
+    "X": {
+      "item":"minecraft:copper_ingot"
+    },
+    "Y": {
+      "item":"minecraft:iron_ingot"
+    },
+    "Z": {
+      "item":"aliveandwell:wujin_coal"
+    }
+  },
+  "result": {
+    "item": "aliveandwell:ingot_wujin"
+  }
+}

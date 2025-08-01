@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "aliveandwell:ingot_wujin"
+  },
+  "base": {
+    "item": "minecraft:iron_leggings"
+  },
+  "result": {
+    "item": "aliveandwell:wujin_leggings"
+  },
+  "template": {
+    "item": "aliveandwell:ingot_wujin"
+  }
+}

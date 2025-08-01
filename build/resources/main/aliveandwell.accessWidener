@@ -1,0 +1,18 @@
+accessWidener v1 named
+accessible method net/minecraft/entity/FallingBlockEntity <init> (Lnet/minecraft/world/World;DDDLnet/minecraft/block/BlockState;)V
+mutable field net/minecraft/world/SpawnHelper MIN_SPAWN_DISTANCE I
+accessible field net/minecraft/entity/ai/goal/MeleeAttackGoal path Lnet/minecraft/entity/ai/pathing/Path;
+accessible field net/minecraft/entity/ai/goal/MeleeAttackGoal cooldown I
+accessible field net/minecraft/screen/CraftingScreenHandler result Lnet/minecraft/inventory/CraftingResultInventory;
+
+accessible method net/minecraft/block/entity/AbstractFurnaceBlockEntity writeNbt (Lnet/minecraft/nbt/NbtCompound;)V
+accessible method net/minecraft/screen/CraftingScreenHandler updateResult (Lnet/minecraft/screen/ScreenHandler;Lnet/minecraft/world/World;Lnet/minecraft/entity/player/PlayerEntity;Lnet/minecraft/inventory/RecipeInputInventory;Lnet/minecraft/inventory/CraftingResultInventory;)V
+accessible method net/minecraft/block/entity/AbstractFurnaceBlockEntity getCookTime (Lnet/minecraft/world/World;Lnet/minecraft/block/entity/AbstractFurnaceBlockEntity;)I
+accessible method net/minecraft/block/entity/AbstractFurnaceBlockEntity getFuelTime (Lnet/minecraft/item/ItemStack;)I
+
+accessible method net/minecraft/client/gui/screen/world/CreateWorldScreen <init>  (Lnet/minecraft/client/MinecraftClient;Lnet/minecraft/client/gui/screen/Screen;Lnet/minecraft/client/world/GeneratorOptionsHolder;Ljava/util/Optional;Ljava/util/OptionalLong;)V
+accessible method net/minecraft/client/gui/screen/world/WorldCreator getWorldPreset  (Lnet/minecraft/client/world/GeneratorOptionsHolder;Ljava/util/Optional;)Ljava/util/Optional;
+accessible field net/minecraft/client/gui/screen/world/CreateWorldScreen worldCreator Lnet/minecraft/client/gui/screen/world/WorldCreator;
+accessible field net/minecraft/client/gui/screen/world/CreateWorldScreen dataPackTempDir Ljava/nio/file/Path;
+accessible field net/minecraft/entity/Entity lastNetherPortalPosition Lnet/minecraft/util/math/BlockPos;
+

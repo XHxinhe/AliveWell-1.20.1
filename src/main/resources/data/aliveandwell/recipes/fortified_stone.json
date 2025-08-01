@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": {
+      "item": "minecraft:blaze_rod"
+    },
+    "X": {
+      "item": "minecraft:diamond_block"
+    },
+    "A": {
+      "item": "ad_astra:calorite_ingot"
+    },
+    "B": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "pattern": [
+    "A#A",
+    "#X#",
+    "B#B"
+  ],
+  "result": {
+    "item": "aliveandwell:fortified_stone"
+  }
+}

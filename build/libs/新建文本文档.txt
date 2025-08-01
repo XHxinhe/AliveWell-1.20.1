@@ -1,0 +1,1 @@
+certutil -hashfile AliveAndWell-mc1.20.1-fabric-5.1.0.jar SHA256

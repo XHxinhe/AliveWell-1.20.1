@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "aliveandwell:block/netherworld_portal_ns"
+    },
+    "axis=z": {
+      "model": "aliveandwell:block/netherworld_portal_ew"
+    }
+  }
+}

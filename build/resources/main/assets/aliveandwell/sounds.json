@@ -1,0 +1,22 @@
+{
+  "crafting": {
+    "subtitle": "crafting",
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "crafttime:crafting",
+        "steam": true
+      }
+    ]
+  }, 
+  "finish": {
+    "subtitle": "finish",
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "crafttime:finish",
+        "steam": true
+      }
+    ]
+  }
+}

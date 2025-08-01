@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "diamond",
+  "ingredient": {
+    "item": "aliveandwell:ore_mithril_deepslate"
+  },
+  "result": "aliveandwell:ingot_mithril"
+}

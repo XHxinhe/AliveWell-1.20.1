@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " Y ",
+    "YXY",
+    " Y "
+  ],
+  "key": {
+    "X": {
+      "item":"minecraft:obsidian"
+    },
+    "Y": {
+      "item":"aliveandwell:nugget_adamantium"
+    }
+  },
+  "result": {
+    "item": "aliveandwell:random_adamantium_ding"
+  }
+}

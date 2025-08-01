@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XZX",
+    "ZYZ",
+    "XZX"
+  ],
+  "key": {
+    "Y": {
+      "item":"aliveandwell:fortified_stone"
+    },
+    "X": {
+      "item":"minecraft:emerald_block"
+    },
+    "Z": {
+      "item":"minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "aliveandwell:elytra_core"
+  }
+}

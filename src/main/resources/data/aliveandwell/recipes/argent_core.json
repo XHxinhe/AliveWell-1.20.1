@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BXB",
+    "XAX",
+    "CXC"
+  ],
+  "key": {
+    "X": {
+      "item":"doom:argent_plate"
+    },
+    "A": {
+      "item":"aliveandwell:fortified_stone"
+    },
+    "B": {
+      "item":"aliveandwell:adamantium_block"
+    },
+    "C": {
+      "item":"aliveandwell:mithril_block"
+    }
+  },
+  "result": {
+    "item": "aliveandwell:argent_core"
+  }
+}

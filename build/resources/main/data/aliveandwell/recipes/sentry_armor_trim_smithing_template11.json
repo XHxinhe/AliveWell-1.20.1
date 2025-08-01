@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BYB",
+    "XAX",
+    "CYC"
+  ],
+  "key": {
+    "X": {
+      "item":"minecraft:emerald_block"
+    },
+    "Y": {
+      "item":"minecraft:lapis_block"
+    },
+    "A": {
+      "item":"doom:argent_block"
+    },
+    "B": {
+      "item":"aliveandwell:mithril_block"
+    },
+    "C": {
+      "item":"minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:sentry_armor_trim_smithing_template"
+  }
+}

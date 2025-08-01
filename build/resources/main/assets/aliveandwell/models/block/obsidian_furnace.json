@@ -1,0 +1,8 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+        "top": "aliveandwell:block/furnace/obsidian/top",
+        "front": "aliveandwell:block/furnace/obsidian/front",
+        "side": "aliveandwell:block/furnace/obsidian/side"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:block/cube",
+    "textures": {
+        "particle": "aliveandwell:block/random_mithril_ding",
+        "down": "aliveandwell:block/frame_mithril",
+        "up": "aliveandwell:block/frame_mithril",
+        "north": "aliveandwell:block/random_mithril_ding",
+        "east": "aliveandwell:block/random_mithril_ding",
+        "south": "aliveandwell:block/random_mithril_ding",
+        "west": "aliveandwell:block/random_mithril_ding"
+    }
+}

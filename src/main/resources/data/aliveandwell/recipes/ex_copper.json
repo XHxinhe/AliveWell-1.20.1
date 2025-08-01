@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+        "item": "minecraft:copper_ingot"
+      },
+      {
+        "item": "minecraft:leather"
+      }
+  ],
+  "result": {
+    "item": "aliveandwell:ex_copper",
+    "count": 1
+  }
+}
+

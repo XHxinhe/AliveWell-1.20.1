@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "y",
+        "y"
+    ],
+    "key": {
+        "y": {
+            "item": "minecraft:bone"
+        }
+    },
+    "result": {
+        "item": "aliveandwell:bone_stick",
+        "count": 1
+    }
+}

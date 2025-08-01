@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    " X ",
+    "XAX",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item":"minecraft:netherite_ingot"
+    },
+    "A": {
+      "item":"minecraft:redstone_block"
+    }
+  },
+  "result": {
+    "item": "aliveandwell:void_blossom_spawn"
+  },
+  "show_notification": true
+}

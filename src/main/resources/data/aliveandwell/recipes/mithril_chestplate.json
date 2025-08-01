@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XAX",
+    "XXX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item":"aliveandwell:ingot_mithril"
+    },
+    "A": {
+      "item":"minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "aliveandwell:mithril_chestplate"
+  }
+}

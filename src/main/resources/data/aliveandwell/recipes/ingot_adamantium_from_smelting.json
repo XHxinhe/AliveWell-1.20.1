@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "diamond",
+  "ingredient": {
+    "item": "aliveandwell:row_adamantium"
+  },
+  "result": "aliveandwell:ingot_adamantium"
+}

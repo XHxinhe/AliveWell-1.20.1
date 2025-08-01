@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "aliveandwell:mithril_core"
+  },
+  "base": {
+    "item": "doom:argent_sword"
+  },
+  "result": {
+    "item": "aliveandwell:mithril_sword"
+  },
+  "template": {
+    "item": "doom:argent_block"
+  }
+}

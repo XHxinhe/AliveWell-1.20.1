@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "aliveandwell:block/random_a_portal_ns"
+    },
+    "axis=z": {
+      "model": "aliveandwell:block/random_a_portal_ew"
+    }
+  }
+}

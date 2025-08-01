@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "aliveandwell:ore_mithril",
+    "aliveandwell:ore_mithril_deepslate",
+    "aliveandwell:ore_ex",
+    "aliveandwell:ore_ex_deepslate",
+    "aliveandwell:wujin_ore",
+    "aliveandwell:wujin_ore_deepslate",
+    "aliveandwell:niter_ore",
+    "aliveandwell:niter_ore_deepslate"
+  ]
+}

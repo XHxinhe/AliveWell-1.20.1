@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "aliveandwell:ingot_wujin"
+  },
+  "base": {
+    "item": "minecraft:iron_boots"
+  },
+  "result": {
+    "item": "aliveandwell:wujin_boots"
+  },
+  "template": {
+    "item": "aliveandwell:ingot_wujin"
+  }
+}

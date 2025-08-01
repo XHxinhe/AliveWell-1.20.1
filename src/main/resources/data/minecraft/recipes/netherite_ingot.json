@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "aliveandwell:fortified_stone"
+    },
+    "A": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "B": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "XXX",
+    "BBB"
+  ],
+  "result": {
+    "item": "minecraft:netherite_ingot"
+  }
+}
+

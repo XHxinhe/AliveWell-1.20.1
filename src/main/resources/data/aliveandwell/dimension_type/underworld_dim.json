@@ -1,0 +1,25 @@
+{
+  "logical_height": 280,
+  "infiniburn": "#minecraft:infiniburn_overworld",
+  "effects": "minecraft:overworld_caves",
+  "ambient_light": 0.0,
+  "respawn_anchor_works": false,
+  "has_raids": true,
+  "min_y": -192,
+  "height": 320,
+  "natural": true,
+  "coordinate_scale": 1.0,
+  "piglin_safe": true,
+  "bed_works": false,
+  "has_skylight": false,
+  "has_ceiling": true,
+  "ultrawarm": false,
+  "monster_spawn_block_light_limit": 7,
+  "monster_spawn_light_level": {
+    "type": "minecraft:uniform",
+    "value": {
+      "max_inclusive": 7,
+      "min_inclusive": 0
+    }
+  }
+}

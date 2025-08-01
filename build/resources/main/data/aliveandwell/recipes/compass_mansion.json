@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "XAX",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item":"aliveandwell:ingot_adamantium"
+    },
+    "A": {
+      "item":"minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "aliveandwell:compass_mansion"
+  }
+}

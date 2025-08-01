@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BYB",
+    "XAX",
+    "CYC"
+  ],
+  "key": {
+    "X": {
+      "item":"minecraft:emerald_block"
+    },
+    "Y": {
+      "item":"minecraft:lapis_block"
+    },
+    "A": {
+      "item":"doom:argent_block"
+    },
+    "B": {
+      "item":"aliveandwell:adamantium_block"
+    },
+    "C": {
+      "item":"minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:rib_armor_trim_smithing_template"
+  },
+  "show_notification": true
+}

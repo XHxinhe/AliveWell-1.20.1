@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "Y",
+    "Y"
+  ],
+  "key": {
+    "X": {
+      "item":"aliveandwell:ingot_wujin"
+    },
+    "Y": {
+      "item":"minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "aliveandwell:wujin_shovel"
+  }
+}

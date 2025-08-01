@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+      {
+        "item": "aliveandwell:flint_shard"
+      },
+      {
+        "item": "aliveandwell:flint_shard"
+      },
+      {
+        "item": "aliveandwell:flint_shard"
+      },
+      {
+        "item": "aliveandwell:flint_shard"
+      }
+  ],
+  "result": {
+    "item": "aliveandwell:flint_ingot",
+    "count": 1
+  }
+}
+

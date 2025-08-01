@@ -1,0 +1,18 @@
+{
+  "aliveandwell": {
+    "desc:": "是否开启op作弊模式，默认false，不可配置",
+    "areCheatAllowed": false,
+    "desc1:": "是否开启模组完整性检查，默认true，不可配置",
+    "areChectMods": true,
+    "desc2:": "是否开启村民交易，默认true,不可配置",
+    "areAllowedTrade": true,
+    "desc3:": "最大死亡次数50 无法配置",
+    "deathCount": 50,
+    "desc4:": "传送冷却时间1200，无法配置",
+    "tptime": 900,
+    "desc5:": "传送每天消耗经验倍数10，无法配置",
+    "xptime": 10,
+    "desc6:": "地狱开启天数,默认64,不可配置",
+    "netherDay": 64
+  }
+}

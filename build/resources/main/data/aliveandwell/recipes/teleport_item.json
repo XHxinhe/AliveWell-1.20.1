@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "XYX",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item":"minecraft:obsidian"
+    },
+    "Y": {
+      "item":"aliveandwell:item_en_gemstone"
+    }
+  },
+  "result": {
+    "item": "aliveandwell:teleport_item",
+    "count": 2
+  }
+}
